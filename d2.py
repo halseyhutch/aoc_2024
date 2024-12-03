@@ -37,7 +37,6 @@ def is_report_safe(report):
         ascending = True
     else:
         ascending = False
-    safe = True
     for i in range(2, len(report)):
         diff = report[i] - report[i - 1]
         if ascending:
