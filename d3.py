@@ -28,5 +28,5 @@ def p2():
 
 
 if __name__ == '__main__':
-    print(f'The answer to the first part of day two is {p1()}')
-    print(f'The answer to the second part of day two is {p2()}')
+    print(f'The answer to the first part of day three is {p1()}')
+    print(f'The answer to the second part of day three is {p2()}')
